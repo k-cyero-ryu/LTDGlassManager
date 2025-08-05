@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Data/addTeam.png</file>
+        <file>Data/completedInvoice.png</file>
+        <file>Data/Icon.png</file>
+        <file>Data/aim3.ico</file>
+    </qresource>
+</RCC>
